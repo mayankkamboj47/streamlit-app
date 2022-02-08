@@ -5,5 +5,4 @@ dependencies:
         - pandas
         - matplotlib
         - pymongo
-        - streamlit
         - dnspython
